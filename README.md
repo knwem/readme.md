@@ -4,7 +4,7 @@
   <img src="https://count.getloli.com/@knwem?name=knwem&theme=moebooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Anime-themed profile visitor counter" />
 </div>
 
-I am Navu, 17-year-old developer building high-performance infrastructure. Academics weren't my strong suit so I took Humanities, but my drive stays fixed on code and building systems.
+I’m Knw, a developer focused on building high-performance infrastructure and reliable systems. I may have taken the Humanities path academically, but my curiosity and ambition have always been rooted in code—turning ideas into fast, resilient software.
 
 > [!NOTE]
 > Currently developing for **[Biolink](https://fear.rest)**
