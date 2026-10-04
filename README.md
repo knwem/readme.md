@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="./public/knwof-header.gif" alt="Knwof animated header" width="100%" />
+  <img src="./public/knwof-header.gif" alt="Knw animated header" width="100%" />
 </div>
 
 # Hello Connections! 🌱
 
-![](https://count.getloli.com/@bewafa?name=bewafa&theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 I am Navu, 17-year-old developer building high-performance infrastructure. Academics weren't my strong suit so I took Humanities, but my drive stays fixed on code and building systems.
 
