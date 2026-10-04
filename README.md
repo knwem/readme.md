@@ -4,7 +4,7 @@
   <img src="https://count.getloli.com/@knwem?name=knwem&theme=moebooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Anime-themed profile visitor counter" />
 </div>
 
-I’m Knw, a developer focused on building high-performance infrastructure and reliable systems. I may have taken the Humanities path academically, but my curiosity and ambition have always been rooted in code—turning ideas into fast, resilient software.
+I’m Knw, a full-stack developer who’s been coding and gaming for the past 8 years. I enjoy building fast, reliable systems and turning ideas into useful software.
 
 > [!NOTE]
 > Currently developing for **[Biolink](https://fear.rest)**
