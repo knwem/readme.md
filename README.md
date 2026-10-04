@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./public/knwof-header.gif" alt="Knw animated header" width="100%" />
-</div>
-
 # Hello Connections! 🌱
 
 <div align="center">
